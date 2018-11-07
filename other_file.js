@@ -1,1 +1,1 @@
-console.log(index.name)
+console.log(name)
